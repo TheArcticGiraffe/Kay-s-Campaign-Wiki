@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "ed58f3efdbae18c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9b8794bd8a8c2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Inbox/Osmund's Sigil.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "73e04c845b921169",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Inbox/Circle of Remove Rubble.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36a1b3992e3694b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "de20076a955491d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c41e828d3cec1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e3cd0c472c3d44a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#wiki/NPC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 450.51096534729004
+  },
+  "right": {
+    "id": "7ff7dd5d9cfb6511",
+    "type": "split",
+    "children": [
+      {
+        "id": "6754464d8563b8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b80b73fc10e5c88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Inbox/Circle of Remove Rubble.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3d2a03d39dd8725",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Inbox/Circle of Remove Rubble.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9002deab6c03a35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "73e04c845b921169",
+  "lastOpenFiles": [
+    "_Inbox/Osmund's Sigil.md",
+    "_Inbox/Letter from Osmund to Patruk - 12 Aymerlen, 607 AKE.md",
+    "_Inbox/Circle of Remove Rubble.md",
+    "_Inbox/Stuvica Castle.md",
+    "_Inbox/Natural Magic Circle.md",
+    "Session Notes/Session 4 - A Dark and Spooky Castle.md",
+    "_Inbox/The Broken Piano.md",
+    "Personal_Notes/Esther Wiki Tasks.md",
+    "_Inbox/Investigate Ghostly Essence.md",
+    "_Inbox/Ghostly Essence.md"
+  ]
+}

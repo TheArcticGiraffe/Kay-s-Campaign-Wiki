@@ -1,0 +1,8 @@
+# ignoring the Obsidian personal files
+.obsidian
+
+#ignoring the personal notes sections
+Personal_Notes/*
+
+# exception to the rule
+!Personal_Notes/.gitkeep 

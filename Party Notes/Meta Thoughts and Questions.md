@@ -1,0 +1,4 @@
+- [ ] meta: should we explain what we are doing and wait for you to prompt with a check, or should we initiate when we want to roll for a check? [tasktype:: question] [questiontype:: gameplay]
+- [ ] Ask the group what place to make group chat. My votes are Discord, Slack, Signal, Texting, [tasktype:: question] [questiontype:: meta]
+- [ ] Are we allowed to take Feats instead of ASI? [tasktype:: question] [questiontype:: mechanics]
+- [ ] Are we allowed to use our racial +1 and +2 on any stats we choose? [tasktype:: question] [questiontype:: mechanics]

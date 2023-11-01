@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "ed58f3efdbae18c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c90c3652a1e3473e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/Session Notes/Session 9 -.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36a1b3992e3694b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "de20076a955491d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8c41e828d3cec1c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e3cd0c472c3d44a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#wiki/NPC",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5026321411133
+  },
+  "right": {
+    "id": "7ff7dd5d9cfb6511",
+    "type": "split",
+    "children": [
+      {
+        "id": "6754464d8563b8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b80b73fc10e5c88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Session Notes/Session 9 -.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3d2a03d39dd8725",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Session Notes/Session 9 -.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9002deab6c03a35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c90c3652a1e3473e",
+  "lastOpenFiles": [
+    "Personal_Notes/Aethla Money Ledger.md",
+    "Notes/Session Notes/Session 9 -.md",
+    "Personal_Notes/All Tasks.md",
+    "Wiki/Clues/Osmund's Sigil.md",
+    "Personal_Notes/Aethla's Backstory.md",
+    "Notes/Session 6 -.md",
+    "Notes/Session Notes/Session 5 - The Castle's Second Story.md",
+    "Adventure Logs/High Level Adventure Log.md",
+    "Notes/High Level Adventure Log.md",
+    "_Inbox/Mihaela.md"
+  ]
+}
