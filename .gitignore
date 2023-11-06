@@ -2,7 +2,7 @@
 .obsidian
 
 #ignoring the personal notes sections
-Personal_Notes/*
+Kay's\ Campaign\ Wiki/Personal_Notes/*
 
 # exception to the rule
-!Personal_Notes/.gitkeep 
+Kay's\ Campaign\ Wiki!Personal_Notes/.gitkeep 
