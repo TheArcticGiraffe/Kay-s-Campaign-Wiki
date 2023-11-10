@@ -27,3 +27,7 @@ Other folks have the same contract, signed by some guy. Big swooping L.
 Move the bodies off the road to avoid hazard. 
 
 Make it back to [[The Gate]].
+
+
+
+- [ ] Does the symbol have something to do with going to the surface?
