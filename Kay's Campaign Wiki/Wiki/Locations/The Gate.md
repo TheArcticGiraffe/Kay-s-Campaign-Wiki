@@ -1,7 +1,7 @@
 ---
-tags:
-  - cleanup
-  - wiki/location
+tags: settlement
+location: "[[The Cavern]]"
+size:
 ---
 
 Parent Location:: [[The Cavern]]

@@ -1,7 +1,5 @@
 ---
-tags:
-  - cleanup
-  - wiki/location
+location: "[[Mycelium Grove]]"
 ---
 
 Nearest Settlement::

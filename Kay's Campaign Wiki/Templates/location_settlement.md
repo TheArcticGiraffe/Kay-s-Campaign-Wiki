@@ -7,5 +7,3 @@ size:
 ### Description
 
 #### Dangers
-
-### Nearby Locations

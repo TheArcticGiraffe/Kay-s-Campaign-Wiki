@@ -1,7 +1,10 @@
 ---
-tags:
-  - cleanup
-  - wiki/location
+tags: region
+capital: "[[The Gate]]"
+location: "[[The Underdark]]"
+neighbours:
+- "[[Lightlands]]"
+aliases:
 ---
 
 Parent Location:: [[The Underdark]]

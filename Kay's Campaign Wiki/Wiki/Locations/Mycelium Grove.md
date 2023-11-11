@@ -1,7 +1,10 @@
 ---
-tags:
-  - cleanup
-  - wiki/location
+tags: region
+capital:
+location: "[[The Underdark]]"
+neighbours:
+- "[[Lightlands]]"
+aliases:
 ---
 
 Nearest Settlement:: [[The Keep]]

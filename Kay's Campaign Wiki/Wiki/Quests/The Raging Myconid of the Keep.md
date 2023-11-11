@@ -1,13 +1,13 @@
 ---
-tags:
-  - cleanup
-  - wiki/quest
-status: Active
+status: Complete
+origin: "[[Dennis]]"
+received: when
+completed: when
 ---
+#### Objectives
+- [x] Kill the infected myconid.
 
 ### Synopsis
-
-Quest Giver: [[Dennis]]
 
 [[Infected Myconid|A giant myconid]] is raging around [[The Keep]]. This creature stands around 10ft tall, and is a strange sickly yellow color as well as looking mishappen and twisted. It is intermitently connecting to the Keep, and this sickly yellow stuff seeps out of it and "corrupts" the surrounding forest, slowly spreading outwards. The Keep was evacuated when this thing arrived.
 

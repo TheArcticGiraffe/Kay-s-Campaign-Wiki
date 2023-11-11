@@ -1,6 +1,14 @@
 ---
 tags:
-  - wiki/location
+  - region
+capital: "[[The Gate]]"
+location: "[[The Underdark]]"
+neighbours:
+- "[[The Marsh]]"
+- "[[The Sea]]"
+- "[[Mycelium Grove]]"
+- "[[The Cavern]]"
+aliases:
 ---
 
 Parent Location:: [[The Cavern]]

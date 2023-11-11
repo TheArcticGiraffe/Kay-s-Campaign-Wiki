@@ -1,13 +1,18 @@
 ---
-tags:
-  - #cleanup
-  - #wiki/quest
-status: complete
+status: Complete
+origin: "[[The Institute of Collective Knowledge]]"
+received: when
+completed: when
 ---
 
-### Synopsis
+#### Objectives
+- [x] Collect a piece of the keep's flesh.
+- [x] Place it in the provided box to shunt it to the lab.
 
-Quest Giver: [[Byron]]
+#### Rewards
+- [x] 200gp
+
+### Synopsis
 
 Tasked by Byron to go to the [[The Keep]] in the [[Mycelium Grove]] to collect a piece of the Keep. Once we have the piece of the Keep, all we have to do is put it in the chest given to us by Byron, and the specimen will be teleported to Byron for collection. 
 
@@ -16,11 +21,6 @@ Tasked by Byron to go to the [[The Keep]] in the [[Mycelium Grove]] to collect a
 
 
 ### Related People
-
-
-### Reward
-
-- 200GP
 
 
 ### Details and Information
