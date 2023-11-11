@@ -1,3 +1,0 @@
----
-tag: session-notes
----

@@ -1,7 +1,0 @@
-- ROLL FOR INITIATIVE
-	- ROUND X
-		- Aethla
-		- Kohl
-		- Aleks
-		- Orion
-		- Shield
