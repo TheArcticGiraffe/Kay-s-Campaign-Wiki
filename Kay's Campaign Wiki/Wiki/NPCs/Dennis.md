@@ -2,7 +2,8 @@
 tags:
   - cleanup
   - wiki/NPC
-aliases:
+aliases: 
+race: "[[Firbolg]]"
 ---
 
 Party Relation:: 

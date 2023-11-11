@@ -2,7 +2,8 @@
 tags:
   - cleanup
   - wiki/PC
-aliases:
+aliases: 
+race:
 ---
 
 Party Relation:: 

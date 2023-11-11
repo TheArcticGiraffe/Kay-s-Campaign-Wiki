@@ -2,7 +2,8 @@
 tags:
   - cleanup
   - wiki/NPC
-aliases:
+aliases: 
+race: "[[Tabaxi]]"
 ---
 
 Party Relation:: 

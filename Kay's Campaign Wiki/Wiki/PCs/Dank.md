@@ -2,7 +2,8 @@
 tags:
   - cleanup
   - wiki/PC
-aliases:
+aliases: 
+race: "[[Goblin]]"
 ---
 
 Party Relation:: Member
