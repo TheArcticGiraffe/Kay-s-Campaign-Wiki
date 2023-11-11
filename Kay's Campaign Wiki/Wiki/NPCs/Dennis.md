@@ -10,7 +10,7 @@ Main Location::
 
 ### Description
 
-Elderly [[Firbolgs|Firbolg]], holding on to staff out of necessity.
+Elderly [[firbolg]], holding on to staff out of necessity.
 
 Speaks in an Irish accent.
 

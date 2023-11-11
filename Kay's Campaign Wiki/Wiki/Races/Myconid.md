@@ -2,6 +2,8 @@
 tags:
   - cleanup
   - wiki/race
+aliases:
+  - Myconids
 ---
 
 Party Relationship:: 
@@ -11,6 +13,7 @@ Main Location::
 
 A species of fungal people. The main inhabitants of the [[Mycelium Grove]]. Can tap into the fungal network of the grove.
 
+[[firbolg]] 
 
 ### Relations
 

@@ -11,8 +11,7 @@ Nearest Settlement:: [[The Keep]]
 
 A large forest of fungal trees and other growths. All the fungus is connected through a mycelium network. When deep enough into the forest, the canopy closes off and blocks the view of the cavern ceiling. The fungal trees glow with their own light as well.
 
-Primarily inhabited by [[Myconids|myconids]] and a group of [[Firbolgs]] called [[The Shepherds|the Shepherds]], who protect it.
-
+Primarily inhabited by [[Myconid|myconids]] and a group of [[Firbolg|firbolgs]] called [[The Shepherds]], who protect it.
 
 ### Nearby Locations
 
