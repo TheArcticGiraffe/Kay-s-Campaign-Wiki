@@ -1,12 +1,12 @@
 ---
-status: Complete
+status: complete
 origin: "[[The Institute of Collective Knowledge]]"
-received: when
+received: 0000-00-00
 completed: when
 ---
 
 #### Objectives
-- [x] Collect a piece of the keep's flesh.
+- [x] Collect a piece of the Keep's flesh.
 - [x] Place it in the provided box to shunt it to the lab.
 
 #### Rewards

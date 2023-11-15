@@ -1,6 +1,6 @@
 ## Session 1 - The Introduction
 
-### Date
+### Day 1
 
 - We open on our party of adventurers, as the elevator doors to the cavern under the Gate close and their journey down begins
 	- The party introduces themselves to eachother.
