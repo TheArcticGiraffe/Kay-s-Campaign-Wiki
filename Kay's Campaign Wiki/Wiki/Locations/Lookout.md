@@ -16,7 +16,7 @@ In town, there are a few small corral's of livestock for town use, as well as a 
 
 #### Exports
 
-The main export of Lookout is hunted game, meat, and hide. In the recent years, this work has been impacted by the reign of terror of [[the Beast]].
+The main export of Lookout is hunted game, meat, and hide. In the recent years, this work has been impacted by the reign of terror of [[The Beast]].
 
 #### Local Establishments
 

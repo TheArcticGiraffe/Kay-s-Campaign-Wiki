@@ -20,6 +20,8 @@
 
 # Session Notes
 
+## The Hole in the Wall
+
 Upon arriving in the Gate, the party discusses what to do now. They decide to head to the local watering hole for hired swords, [[The Hole in the Wall|the Hole]], as all their other leads will be unavailable until morning. 
 
 The shitty tavern where all the low-lifes hang out.
@@ -28,15 +30,13 @@ As they enter the tavern, they see what Khas knows to be the normal crowd packed
 
 Khas approaches the dwarven bartender, and sees the familiar face of Geoff manning the bar. He is already pouring her a beer. Khas and him exchange pleasantries about how things have been, how she’s been off adventuring out of the city, and commiserating about the lack of jobs in the city. Geoff ends it off by telling Khas to wish her Dad hello.
 
-- [ ] Geoff speaks with a Kiwi accent
-
 The rest of the party orders their drinks; a shit ale for Dank and Khas, a dirty glass of water (although he ordered a milk) for Albreich, and a martini of crushed raspberries and vodka for Darius, which he puts his own tiny umbrella into. 
 
-3c for the beer.
+Khas then turns the conversation to the topic at hand; she asks Geoff if he knows anything about the contract, this “L” person, or the sun-arrow sigil they found. 
 
-Dank gets a shit ale.
+Geoff takes a good look at both objects, and inspects either of them, pondering. He hasn’t seen anything like these at all. His best guess about the sigil would be to try the church. 
 
-Ask Geoff about the contract. Geoff doesn't know about it, or the L.
+The party thanks Geoff, and goes to sit down at a table. 
 
 Ask Geoff about the sigil. Pretty fancy, looks like the Order's sigil, but doens't know 
 

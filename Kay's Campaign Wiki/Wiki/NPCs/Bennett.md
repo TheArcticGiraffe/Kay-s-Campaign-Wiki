@@ -14,7 +14,7 @@ Claims to be a religious historian.
 
 ### Notable Observations
 
-- Seems like he know more about the [[arrow-sun sigil]]. Bennet rambled about the sigil a bit. hiding something or is anxious we are inquiring about it. 
+- Seems like he know more about the [[Arrow-Sun Sigil]]. Bennet rambled about the sigil a bit. hiding something or is anxious we are inquiring about it. 
 - Thinks that Dank is a child.
 
 - [ ] Re-inquire with Bennett about the sigiil [tasktype::action] [person::[[Bennett]]] [location::[[The Gate]]]

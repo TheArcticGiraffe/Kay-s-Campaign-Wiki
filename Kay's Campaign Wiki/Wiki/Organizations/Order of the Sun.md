@@ -20,11 +20,11 @@ Small office, clutered, papers and stuff, filing cabinets and book cases. Open f
 
 Dank attempts to pick in, but it seizes and locks up.
 
-- [ ] Do another recon mission to the church to see what was in the locked desk.
+- [ ] Do another recon mission to the church to see what was in the locked desk
 
 #### Leadership
 
-- [[Bennett]] - Head Priest?
+- [[Bennett]] - Head Priest
 
 
 #### Headquarters
