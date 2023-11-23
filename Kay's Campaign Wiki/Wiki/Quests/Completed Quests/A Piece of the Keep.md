@@ -2,7 +2,7 @@
 status: complete
 origin: "[[The Institute of Collective Knowledge]]"
 received: 0000-00-00
-completed: when
+completed: 0000-00-00
 ---
 
 #### Objectives
@@ -27,5 +27,9 @@ Tasked by Byron to go to the [[The Keep]] in the [[Mycelium Grove]] to collect a
 
 This quest was completed. A small hurdle was encountered in the form of the [[Infected Myconid]] found at the keep, but once it was dealt with and the keep was un-infected, the quest went off smoothly.
 
+Upon completing the quest, received [[Byron's Notes|a note]] from Byron in the chest. This note was a simple drawing of a older tabaxi man giving two thumbs up.
+
 
 ### Sessions with Relevant Information
+
+- [[Session 1 - The Introduction]]

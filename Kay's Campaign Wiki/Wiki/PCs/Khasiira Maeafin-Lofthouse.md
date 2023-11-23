@@ -1,21 +1,15 @@
 ---
-tags:
-  - cleanup
-  - wiki/PC
-aliases: 
-race:
+race: "[[Half-Elf (Drow)]]"
+home: "[[The Gate]]"
+aliases: Khas
 ---
-
-Party Relation:: 
-Main Location::
 
 ### Description
 
 
-### Related Entries
+### Notable Observations
 
+- Has some spider-like abilities that she can tap into. So far, she has been seen to double in size, and have 6 additional eyes as well as 4 additional arms appear. She has indicated to [[The Party]] that this is not something that is public, and she would appreciate them keeping it a secret.
 
-### Related Tasks
-
-
-### Last Time Seen
+### Known Connections:
+- Connection: note
