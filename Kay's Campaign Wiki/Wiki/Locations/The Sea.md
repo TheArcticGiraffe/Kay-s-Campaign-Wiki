@@ -1,8 +1,8 @@
 ---
 tags: region
-capital:
+capital: 
 location: "[[The Underdark]]"
 neighbours:
-- "[[Lightlands]]"
-aliases:
+  - "[[Farmlands]]"
+aliases: 
 ---

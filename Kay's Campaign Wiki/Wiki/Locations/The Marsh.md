@@ -1,9 +1,9 @@
 ---
 tags: region
-capital:
+capital: 
 location: "[[The Underdark]]"
 neighbours:
-- "[[Lightlands]]"
+  - "[[Farmlands]]"
 aliases:
-- The Swamp
+  - The Swamp
 ---

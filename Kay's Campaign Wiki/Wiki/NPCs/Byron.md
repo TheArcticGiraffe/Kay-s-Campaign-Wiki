@@ -6,14 +6,14 @@ aliases:
 race: "[[Tabaxi]]"
 ---
 
-Party Relation:: 
-Main Location::
+Party Relation:: Employer
+Main Location:: [[The Gate]]
 
 ### Description
 
 > "Hello my brave adventurers. Simply extract a piece of the keep. When you close it with the correct specimin, it will teleport back to me."
 
-An older tabaxi man, who has big nerdy glasses on.
+An older, tall, lanky tabaxi man, who has big nerdy glasses on.
 
 ### Related Entries
 

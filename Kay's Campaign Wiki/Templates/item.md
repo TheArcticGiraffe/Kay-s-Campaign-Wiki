@@ -1,6 +1,7 @@
 ---
 weight:
 value:
+stored-location:
 ---
 
 ### Description

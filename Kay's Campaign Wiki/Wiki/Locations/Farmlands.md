@@ -31,7 +31,7 @@ The settlement among the Lightlands is very urban and pretty populated. It is co
 
 ### Related Questions
 
-- [ ] What are the general vibes of the Underdark folks living in the Lightlands? [tasktype:: question] [questiontype:: lore] [location:: [[Lightlands]]] 
-- [ ] How large are the LightLands? [tasktype:: question] [questiontype:: lore] [location:: [[Lightlands]]] 
-- [ ] What is the demographics like in the sunlight area? [tasktype:: question] [questiontype:: lore] [location:: [[Lightlands]]] 
-- [ ] What is the name for the area that is bathed in light? [tasktype:: question] [questiontype:: lore] [location:: [[Lightlands]]] 
+- [ ] What are the general vibes of the Underdark folks living in the Lightlands? [tasktype:: question] [questiontype:: lore] [location:: [[Farmlands]]] 
+- [ ] How large are the LightLands? [tasktype:: question] [questiontype:: lore] [location:: [[Farmlands]]] 
+- [ ] What is the demographics like in the sunlight area? [tasktype:: question] [questiontype:: lore] [location:: [[Farmlands]]] 
+- [ ] What is the name for the area that is bathed in light? [tasktype:: question] [questiontype:: lore] [location:: [[Farmlands]]] 

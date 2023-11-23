@@ -3,8 +3,8 @@ tags: region
 capital: "[[The Gate]]"
 location: "[[The Underdark]]"
 neighbours:
-- "[[Lightlands]]"
-aliases:
+  - "[[Farmlands]]"
+aliases: 
 ---
 
 Parent Location:: [[The Underdark]]

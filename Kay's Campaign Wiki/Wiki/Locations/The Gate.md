@@ -9,13 +9,13 @@ Parent Location:: [[The Cavern]]
 ### Description
 A large suspended city, suspended by enormous vertical chains at the top of [[The Cavern|the Cavern]]. The largest city within the Cavern. Has a pretty even mix of surface and underdark species. There is also a great mingling of cultures (think New York City).
 
-The city is slightly overcrowded due to the influx of surface dwellers, but is able to sustain itself through the food produced in the [[Lightlands]].
+The city is slightly overcrowded due to the influx of surface dwellers, but is able to sustain itself through the food produced in the [[Farmlands]].
 
 After a few near miss incidents, the city made a massive [[Gate Anti-Magic Field|anti-magic field]] that encapsulates the entire city. While within the field, magic is impossible to use by default, unless you have a key card which let's you bypass the field at a certain capacity.
 
 The city is ruled by a council, made up of 50% dwarves and 50% duergar. 
 
-At the base of the city there is an elevator, granting access to the base of [[The Cavern|the Cavern]], setting down at the center of the [[Lightlands]].
+At the base of the city there is an elevator, granting access to the base of [[The Cavern|the Cavern]], setting down at the center of the [[Farmlands]].
 
 ### History
 

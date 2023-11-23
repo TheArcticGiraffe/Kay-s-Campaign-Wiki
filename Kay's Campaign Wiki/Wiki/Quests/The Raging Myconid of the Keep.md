@@ -17,7 +17,6 @@ The party came across this creature, and shortly beat it into unconsciousness. E
 
 ### Next Actions
 
-- [ ] What does Byron know about this? [tasktype:: action] [relatedperson:: [[Byron]]]
 - [ ] What does Dennis know about this? [tasktype:: action] [relatedperson:: [[Dennis]]]
 - [ ] What did Dennis do with the dead husk of the creature? [tasktype:: action] [relatedperson:: [[Dennis]]]
 
@@ -35,6 +34,8 @@ The party came across this creature, and shortly beat it into unconsciousness. E
 
 
 ### Details and Information
+
+- Byron does not know anything about what was going on with the Myconid.
 
 
 ### Sessions with Relevant Information

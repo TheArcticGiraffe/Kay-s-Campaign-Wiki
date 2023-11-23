@@ -6,7 +6,7 @@ We open on the contractors in the elevator, waiting to be lowered into the caver
 
 During the ride down, [[Albreich]], [[Dank]], [[Darius Pleasure|Darius]], and [[Khasiira Maeafin-Lofthouse]] all introduce themselves.
 
-After several minutes, the elevator comes to a halt. [[Lightlands|The farm lands]] here are echoes of what must have been on the surface. In the distance, the cavern takes shape. It stretches countless miles in each direction, and miles upward as well. 
+After several minutes, the elevator comes to a halt. [[Farmlands|The farm lands]] here are echoes of what must have been on the surface. In the distance, the cavern takes shape. It stretches countless miles in each direction, and miles upward as well. 
 
 Before the operator continues upward, he passes a small chest to the group. When asked what it is, he gives a non-committal shrug before returning the elevator to [[The Gate|the Gate]]. 
 
