@@ -1,6 +1,6 @@
 ---
-leader:
-headquarters:
+leader: 
+headquarters: 
 aliases:
 ---
 
@@ -8,10 +8,12 @@ aliases:
 
 #### Leadership
 
-#### Members
-
 #### Headquarters
 
 ### Known Connections
 
 #### Members
+- [[Albreich]]
+- [[Dank]]
+- [[Darius Pleasure]]
+- [[Khasiira Maeafin-Lofthouse]]

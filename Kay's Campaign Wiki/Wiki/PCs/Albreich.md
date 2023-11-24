@@ -2,7 +2,8 @@
 tags:
   - cleanup
   - wiki/PC
-aliases: 
+aliases:
+  - Albie
 race: "[[Firbolg]]"
 ---
 
@@ -17,13 +18,8 @@ Main Location::
 
 Is familiar with the area of the [[Mycelium Grove]], as he has some Firbolg family out there.
 
-### Related Entries
-
-
-### Related Tasks
-
-
-### Last Time Seen
+### Known Connections:
+- [[The Shepherds]]: Familial ties
 
 ### Questions
 

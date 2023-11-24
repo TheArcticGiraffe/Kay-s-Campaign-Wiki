@@ -1,14 +1,15 @@
 ---
-leader:
-headquarters:
+tags: religion
+leader: 
+headquarters: 
 aliases:
 ---
+
+The most prominent religious organization in [[the Cavern]].
 
 ### Description
 
 #### Leadership
-
-#### Members
 
 #### Headquarters
 

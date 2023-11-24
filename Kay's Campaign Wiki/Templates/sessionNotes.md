@@ -1,6 +1,8 @@
 ---
-tag: session-notes
-date:
+tags:
+  - session-notes
+real-date: 
+game-date:
 ---
 
 ### Session

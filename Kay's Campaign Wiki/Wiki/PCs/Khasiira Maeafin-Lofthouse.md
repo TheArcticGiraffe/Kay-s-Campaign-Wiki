@@ -13,3 +13,6 @@ aliases: Khas
 
 ### Known Connections:
 - Connection: note
+### Known Connections:
+#### Family
+- Parents: [[Augustus Lofthouse]] and [[Dresmar Maeafin]]
