@@ -9,6 +9,8 @@ Basic mercenary contract. Hired for some reason to work for this guy. No details
 
 #### Physical Description
 
+Signed by [[L]]
+
 #### Abilities/Effects
 
 ### Circumstances of Acquisition

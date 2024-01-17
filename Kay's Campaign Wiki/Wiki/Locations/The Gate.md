@@ -21,6 +21,10 @@ At the base of the city there is an elevator, granting access to the base of [[T
 
 Was the main access point to the surface, until the entrance was sealed off following [[The Cataclysm|the Cataclysm]]. As legend tells, within a matter of weeks of the cataclysm occurring, the entrance was sealed off. 
 
+### Government
+
+The Gate should theoretically be the government of the whole Cavern and provide support to all the settlements. However, in practice, it doesn't give this support; it only deals with those towns where there is an economic reason.
+
 ### Nearby Locations
 
 

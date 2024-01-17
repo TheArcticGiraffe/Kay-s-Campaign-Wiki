@@ -29,17 +29,21 @@ The ceiling of the cavern is covered in a bioluminescent moss, emitted brightly 
 | Nighttime    | Deep Green  | 
 |  |  |
 
+# Government and Politics
 
-### Nearby Locations
-
-
-### Related Entries
+The Cavern does not have a centralized government. In thoery, [[the Gate]] is supposed to act as an authority for the entirety of the 
 
 
-### Related Tasks
+# Nearby Locations
 
 
-### Related Questions
+# Related Entries
+
+
+# Related Tasks
+
+
+# Related Questions
 
 - [ ] What is the name of the cavern? Is it just The Cavern? [tasktype:: question] [questiontype:: lore] [location:: [[The Cavern]]] 
 - [ ] is there a centralized government in the cavern? [tasktype:: question] [questiontype:: lore] [location:: [[The Cavern]]] 

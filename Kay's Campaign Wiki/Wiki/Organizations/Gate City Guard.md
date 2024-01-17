@@ -5,7 +5,7 @@ tags:
 ---
 
 Party Relationship:: 
-Main Location:: 
+Main Location:: [[The Gate]]
 
 ### Description
 

@@ -7,9 +7,15 @@ tags:
 Party Relationship:: 
 Main Location:: [[The Gate]]
 
-### Description
+# Description
 
 An institute of arcane scientists, who hires out contract adventurers to work jobs for them. They purport that their interest, and these jobs, are simply to investigate sites of magical interest for the academic results. However, the amount of coin that is offered in return for doing a job is much more than would be expected, indicated that there is a very powerful person or group who is funding these ventures. However, the coin is too good to ignore.
+
+#### Organization Goals
+
+Strive to learn as much about the arcane and how it ties in down here, the intersections of species, surface and not surface. Found some cool things. Lesser known goal is monitoring [[Anomalies]]. Normally something benign. Getting reports of potentially dangerous situations. 
+
+
 
 #### Lab
 

@@ -12,6 +12,8 @@ aliases:
 
 ### Known Connections
 
+- [[The Institute of Collective Knowledge]]: Employees
+
 #### Members
 - [[Albreich]]
 - [[Dank]]
