@@ -4,12 +4,12 @@ location:
 size:
 ---
 
-### Description
+# Description
 
-#### Local Establishments
+## Local Establishments
 
-#### Places of Interest
+## Places of Interest
 
-#### Inhabitants
+## Inhabitants
 
-#### Dangers
+## Dangers

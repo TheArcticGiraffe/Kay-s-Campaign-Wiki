@@ -25,6 +25,6 @@ His skin has a color to it that is not seen on elves, a tinge of tan to it.
 # Known Connections:
 
 - [[Byron]]: Ex-colleagues
-- [[The Church of the Order of the Sun]]: High priest of the organization
+- [[Order of the Sun]]: High priest of the organization
 - [[The Party]]: Is keeping tabs on us.
 - [[Bennett]]: Was at the fancy restaurant with eachother, when he met the party.

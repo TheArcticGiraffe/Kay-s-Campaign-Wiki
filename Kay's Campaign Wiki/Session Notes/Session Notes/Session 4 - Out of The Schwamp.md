@@ -2,7 +2,7 @@
 tags:
   - session-notes
 real-date: 
-game-date:
+game-date: 0001-01-03
 ---
 
 ### Session
@@ -177,7 +177,7 @@ Hands clasped, looking at Byron, can feel the condescension. Walks up, looks at 
 
 "Hmmm, good evening. I assume you're well"
 By: Puffs chest. "Yup, entertaining some new employees. Thank you for stopping by, though.
-EM: Smirks. He's a bitch, we can feel it. Looking down our nose. Looks a bit surprised, underwhelmed.Dips his head to us. "Hope you're having a wonderful evening. I'm Lazorel, I'm one of the higher priests. Just came to say hello. Hear you're working for the institute. Always good to know who's working with who in this town." Take a look at the wine "Oh, the house wine". Byron, I'll be seeing you soon. S
+EM: Smirks. He's a bitch, we can feel it. Looking down our nose. Looks a bit surprised, underwhelmed.Dips his head to us. "Hope you're having a wonderful evening. I'm Lazoril, I'm one of the higher priests. Just came to say hello. Hear you're working for the institute. Always good to know who's working with who in this town." Take a look at the wine "Oh, the house wine". Byron, I'll be seeing you soon. S
 
 B: Staring in to him.
 

@@ -8,7 +8,7 @@ tags:
 
 A great anti-magic field that was placed around [[The Gate|the Gate]]. Blocks the use of any magic (require sources on this) by anyone within the zone of the field. There are keycards distributed by the council government in order to allow the use of magic.
 
-If you try and cast spells, nothing happnes, and then when you leave they all activate, with you being the taraget. Also includes racial magic. #cleanup 
+If you try and cast spells, nothing happens, and then when you leave they all activate, with you being the taraget. Also includes inate magic.
 
 #### Key Cards
 

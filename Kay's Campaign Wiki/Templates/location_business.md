@@ -4,8 +4,8 @@ location:
 owner:
 ---
 
-### Description
+# Description
 
-#### Wares/Services
+## Wares/Services
 
-#### Patrons
+## Patrons

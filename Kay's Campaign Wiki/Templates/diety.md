@@ -4,10 +4,10 @@ domain:
 aliases:
 ---
 
-### Description
+# Description
 
 
-### Symbols
+# Symbols
 
 
-### Shrine Locations
+# Shrine Locations

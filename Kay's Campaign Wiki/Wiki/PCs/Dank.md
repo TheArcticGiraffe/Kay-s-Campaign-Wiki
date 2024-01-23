@@ -18,7 +18,7 @@ Main Location::
 
 ### Description
 
-A goblin rogue. Not very strong or smart. Grew up in the streets of [[the Gate]], and never went to school. Is also a stoner, and user of many different drugs.
+A goblin rogue. Not very strong or smart. Grew up in the streets of [[The Gate]], and never went to school. Is also a stoner, and user of many different drugs.
 
 ### Related Entries
 

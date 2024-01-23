@@ -4,17 +4,17 @@ origin: who-or-what-gave-it
 received: when
 completed: when
 ---
-##### Objectives:
+# Objectives:
 - [ ] 
 
-##### Rewards:
+# Rewards:
 - [ ] 
 
-### Synopsis
+# Synopsis
 A description of the quest, and its context.
 
-### Details
+# Details
 Relevant information to completing the quest.
 
-### Debrief
+# Debrief
 Recount any discoveries made in the course of the quest.

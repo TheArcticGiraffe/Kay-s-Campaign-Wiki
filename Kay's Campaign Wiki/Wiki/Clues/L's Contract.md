@@ -1,6 +1,7 @@
 ---
 weight: 
 value:
+stored-location: "[[A Lootle Bit of Everything]]"
 ---
 
 ### Description

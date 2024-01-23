@@ -2,7 +2,7 @@
 tags:
   - region
 capital: "[[The Gate]]"
-location: "[[The Underdark]]"
+location: "[[The Cavern]]"
 neighbours:
 - "[[The Marsh]]"
 - "[[The Sea]]"
@@ -11,7 +11,6 @@ neighbours:
 aliases:
 ---
 
-Parent Location:: [[The Cavern]]
 
 ### Description
 

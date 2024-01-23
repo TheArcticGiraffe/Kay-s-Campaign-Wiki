@@ -1,3 +1,10 @@
+---
+tags:
+  - session-notes
+real-date: 
+game-date: 0001-01-01
+---
+
 While living in the [[The Gate]], each of our intrepid heroes took interest in jobs being offered by [[The Institute of Collective Knowledge]]. The first job that we have been given is fairly simple; to collect a piece of [[The Mycelium Keep|the Keep] located in the [[Mycelium Grove]] and return it to [[The Institute of Collective Knowledge|the Institute]].
 
 Each of our characters took interest in a flyer they saw posted around the city, and were guided to meet up here.

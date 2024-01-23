@@ -7,9 +7,9 @@ neighbours:
 aliases:
 ---
 
-### Description
+# Description
 Could be a geographical/political region, or a neighborhood in a town.
 
-#### Environment
+## Environment
 
-#### Dangers
+## Dangers

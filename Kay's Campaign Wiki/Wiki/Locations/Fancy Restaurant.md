@@ -1,7 +1,7 @@
 ---
 tags:
   - business
-location: 
+location: "[[The Gate]]"
 owner:
 ---
 

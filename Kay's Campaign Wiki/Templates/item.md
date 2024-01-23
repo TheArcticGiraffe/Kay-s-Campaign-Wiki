@@ -4,12 +4,12 @@ value:
 stored-location:
 ---
 
-### Description
+# Description
 
-#### Physical Description
+## Physical Description
 
-#### Abilities/Effects
+## Abilities/Effects
 
-### Circumstances of Acquisition
+# Circumstances of Acquisition
 
-### Other Details
+# Other Details

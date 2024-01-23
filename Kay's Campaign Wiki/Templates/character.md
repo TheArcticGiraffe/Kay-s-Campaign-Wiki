@@ -4,9 +4,9 @@ home:
 aliases:
 ---
 
-### Description
+# Description
 
-### Notable Observations
+# Notable Observations
 
-### Known Connections:
+# Known Connections:
 - Connection: note

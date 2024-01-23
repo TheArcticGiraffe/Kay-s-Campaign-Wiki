@@ -7,7 +7,7 @@ Nearest Settlement::
 
 ### Description
 
-Tall interconnected tower made of the fungal network that makes up the [[Mycelium Grove]]. Located a few miles (40 minutes) into the grove when coming from the [[Gate Elevator|elevator]]. 
+Tall interconnected tower made of the fungal network that makes up the [[Mycelium Grove]]. Located a few miles (40 minutes) into the grove when coming from the the gate elevator. 
 
 A large trade hub, and is frequently bustling with people. As well, it is a place of importance to the [[Myconid|myconids]]
 

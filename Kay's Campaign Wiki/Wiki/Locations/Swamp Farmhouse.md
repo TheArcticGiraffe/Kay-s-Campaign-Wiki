@@ -7,7 +7,7 @@ size:
 
 ### Description
 
-A small farm acreage located in the middle of [[the Marsh]].  A few fields with long overgrown plants, hosting a few scarecrows, with an old dilapidated farmhouse. About 200ft across, with the farmhouse in the center. 
+A small farm acreage located in the middle of [[The Marsh]].  A few fields with long overgrown plants, hosting a few scarecrows, with an old dilapidated farmhouse. About 200ft across, with the farmhouse in the center. 
 
 It is clear this acreage has been abandoned for years. The swamp has started to reclaim the land along the edges.
 

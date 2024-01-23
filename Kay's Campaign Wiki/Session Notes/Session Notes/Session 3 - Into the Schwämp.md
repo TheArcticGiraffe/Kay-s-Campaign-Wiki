@@ -2,7 +2,7 @@
 ---
 tags:
   - session-notes
-date:
+game-date: 0001-01-03
 ---
 
 ### Session

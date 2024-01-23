@@ -1,23 +1,23 @@
 ---
-status: Active
+status: Complete
 origin: "[[The Institute of Collective Knowledge]]"
 received: 0000-00-01
 completed: when
 ---
 ##### Objectives:
-- [ ] Defeat THE BEAST
-- [ ] Bind a sample in the provided [[Recall Ribbon|dark blue ribbon]], which will shunt the sample to the institute's Lab.
+- [x] Defeat THE BEAST
+- [x] Bind a sample in the provided [[Recall Ribbon|dark blue ribbon]], which will shunt the sample to the institute's Lab.
 
 ##### Rewards:
-- [ ] 600gp
+- [x] 600gp
 
 ### Synopsis
 
 For the last 5-6 years, there have been issues with small animals, livestock, and (more recently) a child going missing in the town of [[Lookout]].
 
-It started with garbage, and then eventually it took [[Old Lady]]'s cat. After that it went for sheep, followed by mudbugs, and most recently it made off with [[John]]'s youngest son, [[Delmar]].
+It started with garbage, and then eventually it took [[Old Lady]]'s cat. After that it went for sheep, followed by mudbugs, and most recently it made off with [[Delmar]]'s youngest son, [[John]].
 
-The last time [[Delmar]] was seen was about 3 weeks ago.
+The last time [[John]] was seen was about 3 weeks ago.
 
 This has all been attributed to a single creature, known as [[The Beast]].
 

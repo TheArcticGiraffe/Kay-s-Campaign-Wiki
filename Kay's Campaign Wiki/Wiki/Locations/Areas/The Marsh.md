@@ -2,7 +2,7 @@
 tags:
   - region
 capital: or-biggest-settlement
-location: "[[The Underdark]]"
+location: "[[The Cavern]]"
 neighbours:
   - "[[Farmlands]]"
 aliases:
